@@ -1,8 +1,3 @@
-# Repository Description
-Privacy Policy for Maine Ultimate Tournament App - Legal document outlining how user data is collected, used, and protected in our tournament management mobile application.
-
-# README.md Content
-
 # Maine Ultimate Tournament App Privacy Policy
 
 This repository contains the privacy policy for Maine Ultiamte Tournament App, a mobile application designed for managing and participating in tournaments.
