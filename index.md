@@ -53,6 +53,9 @@ We may update our privacy policy from time to time. We will notify you of any ch
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
 
-Email: info@maineultimate.org
+### Maine Ultimate
+- Email: info@maineultimate.org
+- Address:  PO Box 1256, Yarmouth, ME  04096
 
-Address:  PO Box 1256, Yarmouth, ME  04096
+### Esther Devadas, App Developer
+- Email: esmd@gmail.com
