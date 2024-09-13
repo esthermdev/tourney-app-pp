@@ -1,10 +1,10 @@
-# Privacy Policy for [Your Tournament App Name]
+# Privacy Policy for Maine Ultimate Tournament App
 
-Last updated: [Date]
+Last updated: 13/9/2024
 
 ## 1. Introduction
 
-Welcome to [Your Tournament App Name] ("we," "our," or "us"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Welcome to Maine Ultimate Tournament App ("we," "our," or "us"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
 
@@ -12,8 +12,8 @@ Please read this privacy policy carefully. If you do not agree with the terms of
 
 We collect several types of information from and about users of our application, including:
 
-- Personal information: Such as your name, email address, and profile picture when you create an account.
-- Team information: Including team name, roster, and performance statistics.
+- Personal information: Such as your name, email address, and the team you are associated with when you create an account.
+- Team information: Including team name, team profile picture, and team description.
 - Tournament data: Such as schedules, scores, and standings.
 - Device information: Including your mobile device ID, model, and manufacturer, and information about the location of your device.
 
